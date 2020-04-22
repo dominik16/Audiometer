@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arduino_button", "arduino_button.csproj", "{2C338A23-E5D8-4826-A248-BFC4B63D6711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C338A23-E5D8-4826-A248-BFC4B63D6711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C338A23-E5D8-4826-A248-BFC4B63D6711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C338A23-E5D8-4826-A248-BFC4B63D6711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C338A23-E5D8-4826-A248-BFC4B63D6711}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45E51C61-DFC3-4342-AC61-97B6EFA1F452}
+	EndGlobalSection
+EndGlobal
