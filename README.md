@@ -6,3 +6,11 @@ sposób, aby co 100ms przesyłać dane do komputera. Jeśli Arduino jest poprawn
 na odtwarzaniu dźwięków osobno dla każdego o częstotliwościach od 250 Hz do 4 kHz. W trakcie badania natężenie dźwięku wzrasta. 
 Zadaniem osoby badanej jest wciśnięcie przycisku w momencie usłyszenia dźwięku. Po przeprowadzeniu badania generowany jest
 audiogram ukazujący ubytki słuchu osoby badanej. 
+
+Screeny działającego programu. Menu główne:
+
+![Screenshot](audiometer_menu.png)
+
+Wyniki osoby badanej:
+
+![Screenshot](audiometer_report.png)
