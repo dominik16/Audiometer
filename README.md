@@ -1,4 +1,4 @@
-# Audiometer
+# Audiometr
 
 Projekt ten pozwala na przeprowadzenie podstawowego badania słuchu. Niezbędny do odpalenia tego programu jest układ z Arduino, które 
 jest podpięte do portu USB. Układ ten składać się może z płytki stykowej, przycisku oraz Arduino. Arduino musi być skonfigurowane w taki 
